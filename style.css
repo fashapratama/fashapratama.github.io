@@ -1,0 +1,35 @@
+body {
+    font-family: "Arial", sans-serif;
+    margin: 0;
+    padding: 0;
+    font-weight: bold; /* Menjadikan semua teks di body menjadi bold */
+  }
+  
+  header {
+    background: linear-gradient(45deg, #007bff, #00c6ff);
+    color: #fff;
+    padding: 60px 0;
+    text-align: center;
+  }
+  
+  section {
+    padding: 60px 0;
+  }
+  
+  #about {
+    background-color: #f8f9fa; /* Warna latar belakang terang untuk tentang saya */
+  }
+  
+  #projects {
+    background-color: #e9ecef; /* Warna latar belakang lebih gelap untuk proyek */
+  }
+  
+  #contact {
+    background-color: #d4edda; /* Warna latar belakang hijau muda untuk kontak */
+  }
+  
+  footer {
+    background: #343a40; /* Warna gelap untuk footer */
+    color: #fff; /* Warna teks footer menjadi putih */
+  }
+  
